@@ -1,9 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'SUIT', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -110,9 +108,9 @@ body {
 
 .radioCustomButton:checked ~ .radioCustomLabel:before {
   content: '';
-  background: #8bc53f url(./svg/icon-check.svg) no-repeat;
+  background: #13BD64 url(./svg/icon-check.svg) no-repeat;
   background-size: 27px;
-  border-color: #8bc53f;
+  border-color: #13BD64;
 }
 
 /* Animation */
