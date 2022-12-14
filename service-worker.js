@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/naturambti/precache-manifest.e361ac6dd4b28e0292896f8908bdd515.js"
+  "/naturambti/precache-manifest.5dfa135f1b9f948de3e5d33b3501bc5d.js"
 );
 
 workbox.clientsClaim();
